@@ -1,0 +1,41 @@
+.heading{
+ 	font-size: 35px; 
+	display: block;
+	margin-bottom: 25px;
+}	
+body{}
+/*	padding: 12px;
+/*
+.section { 
+	background: gray;
+	position: relative;
+	padding: 15px 6px 0px 6px;
+	box-sizing: border-box;
+	border: 3px solid black; 
+	margin-bottom: 15px;
+	margin-right: 10px;
+	height: 120px;
+
+	*/
+}
+
+.section-title {
+	display: block;
+}
+.section-title span {
+	font-size: 20px;
+}
+/*#Chicken .section-title {background: orange;}
+#Beef 	 .section-title {background: red;}
+#Pork    .section-title{background: yellow;}*/
+#Chicken { height: 1000px; }
+
+nav {background: grey;}
+
+.row {
+  margin-bottom: 15px;
+}
+.row > div {
+  /*border: 2px solid red;*/
+  background-color: gray;
+}
